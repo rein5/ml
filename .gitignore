@@ -1,6 +1,9 @@
 # dataset folder
 data/
 
+# tensorboard runs folder
+runs/
+
 # pytorch saved models
 *.pth
 
